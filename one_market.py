@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-
+#This is alist of fruits and thier prices
 fruit= {'orange' : '100 Rwf -200 Rwf',
         'Banana' : '100 Rwf - 150 Rwf',
         'mango'  : '200 Rwf - 300 Rwf',
