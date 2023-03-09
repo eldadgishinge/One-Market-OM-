@@ -36,3 +36,5 @@ drinks= {'Inyange mango juice' : '800 Rwf -900 Rwf',
         'Embe juice small size' : '400 Rwf -500 Rwf',
 	'Energy drink' : '500Rwf -600Rwf' }
 
+for keys, values in sorted(drinks.items()):
+    print("{}: {}".format(keys, values))
