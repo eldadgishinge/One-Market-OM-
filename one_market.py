@@ -52,3 +52,4 @@ clothes= {'T-shirts' : '2500 Rwf -5000 Rwf',
         'Tights' : '2500 Rwf - 4000 Rwf'}
 
 for keys, values in sorted(clothes.items()):
+    print("{}: {}".format(keys, values))
