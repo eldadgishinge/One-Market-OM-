@@ -26,3 +26,13 @@ vegetables = {'Pumpkin': '300 Rwf - 400 Rwf',
         }
 for keys, values in sorted(vegetables.items()):
     print("{}: {}".format(keys, values))
+
+drinks= {'Inyange mango juice' : '800 Rwf -900 Rwf',
+        'Inyange apple juice' : '800 Rwf - 900 Rwf',
+        'citron plastic soda'  : '800 Rwf - 1000 Rwf',
+        'vanilla yogurt 300ml' : '700 Rwf - 800 Rwf',
+        'pineapple plastic soda ' : '800 Rwf - 1000 Rwf',
+        'coca-cola free sugar plastic soda': '900 Rwf - 1000 Rwf',
+        'Embe juice small size' : '400 Rwf -500 Rwf',
+	'Energy drink' : '500Rwf -600Rwf' }
+
