@@ -12,8 +12,9 @@ fruit= {'orange' : '100 Rwf -200 Rwf',
         }
 
 for keys, values in sorted(fruit.items()):
-    print("{}: {}".format(keys, values)
+    print("{}: {}".format(keys, values))
 
+#Group of vegetables 
 vegetables = {'Pumpkin': '300 Rwf - 400 Rwf',
          'Tomato': '150 Rwf - 180 Rwf',
          'Eggplant': '250 Rwf - 400 Rwf',
