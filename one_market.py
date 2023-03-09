@@ -105,7 +105,7 @@ shoes= {' Sports shoes' : '35000 Rwf - 50000 Rwf',
 
 
 #The lists of cars and their prices
-Cars = {'hyundai tucson 2022' : '$25,350 - negotiable',
+cars = {'hyundai tucson 2022' : '$25,350 - negotiable',
         'RAV4 2016 Toyota ' : '$17,400 to $27,000',
         'Toyota Land Cruiser Prado'  : '$117,500 - negtiable',
         '2021 Mercedes-Benz GLB 250 SUV ' : '$38,050- negotiable',
