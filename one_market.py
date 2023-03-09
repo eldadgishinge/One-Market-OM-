@@ -9,3 +9,6 @@ fruit= {'orange' : '100 Rwf -200 Rwf',
         'Papayas': '700 Rwf - 1000 Rwf',
         'Pineapples':'300 Rwf - 500 Rwf',
         'Lemons' : '100 Rwf -300 Rwf'
+
+for keys, values in sorted(fruit.items()):
+    print("{}: {}".format(keys, values))
