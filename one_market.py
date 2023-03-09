@@ -49,4 +49,6 @@ clothes= {'T-shirts' : '2500 Rwf -5000 Rwf',
         'Dresses': '6000 Rwf - 15000 Rwf',
         'Socks':'500 Rwf - 1500 Rwf',
         'Sweaters' : '5000 Rwf - 8000 Rwf',
-        'Tights' : '2500 Rwf - 4000 Rwf' }
+        'Tights' : '2500 Rwf - 4000 Rwf'}
+
+for keys, values in sorted(clothes.items()):
