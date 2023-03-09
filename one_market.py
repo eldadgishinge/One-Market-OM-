@@ -27,6 +27,7 @@ vegetables = {'Pumpkin': '300 Rwf - 400 Rwf',
 for keys, values in sorted(vegetables.items()):
     print("{}: {}".format(keys, values))
 
+#list of drinks and their prices
 drinks= {'Inyange mango juice' : '800 Rwf -900 Rwf',
         'Inyange apple juice' : '800 Rwf - 900 Rwf',
         'citron plastic soda'  : '800 Rwf - 1000 Rwf',
