@@ -76,7 +76,7 @@ clothes= {'T-shirts' : '2500 Rwf -5000 Rwf',
 
 for keys, values in sorted(clothes.items()):
     print("{}: {}".format(keys, values))
-<<<<<<< HEAD
+
 
 Art_object= {'artistique painting': '8000 Rwf -15000 Rwf',
         'pearl necklace’: '5000 Rwf - 1000 Rwf',
@@ -87,7 +87,8 @@ Art_object= {'artistique painting': '8000 Rwf -15000 Rwf',
     'Rwanda flag bracelt’: ‘3000 Rwf -5000 Rwf’}
 
 for keys, values in sorted(Art objectitems()):
-    print("{}: {}".format(keys, values))  
+    print("{}: {}".format(keys, values))
+
 
 shoes= {' Sports shoes' : '35000 Rwf - 50000 Rwf', 
         'Men’s Dress shoes' : '30000 Rwf - 50000 Rwf', 
@@ -99,4 +100,23 @@ shoes= {' Sports shoes' : '35000 Rwf - 50000 Rwf',
         'Loafers' : '15000 Rwf - 20000 Rwf',
         'Boots' : '30000 Rwf - 45000 Rwf'
 }
+
+
+
+
+#The lists of cars and their prices
+Cars = {'hyundai tucson 2022' : '$25,350 - negotiable',
+        'RAV4 2016 Toyota ' : '$17,400 to $27,000',
+        'Toyota Land Cruiser Prado'  : '$117,500 - negtiable',
+        '2021 Mercedes-Benz GLB 250 SUV ' : '$38,050- negotiable',
+        '4x4 jeep truck' : '$38,305- negotiable',
+        'McLaren 720S': '$305,000- negotiable',
+        'BMW M3/M4':'$70,895 - $72,795',
+        'Mercedes Benz Maybach Eqs Suv' : '$18,924 - negotiable'
+
+}
+
+
+for keys, values in sorted(cars.items()):
+    print("{}: {}".format(keys, values))
 
