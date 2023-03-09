@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+print("                                           ")
 print("----------------FRUITS----------------")
 print("                                           ")
 #This is alist of fruits and thier prices
