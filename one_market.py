@@ -40,7 +40,7 @@ drinks= {'Inyange mango juice' : '800 Rwf -900 Rwf',
 for keys, values in sorted(drinks.items()):
     print("{}: {}".format(keys, values))
 
-#lists of clothes and tgheir prices
+#lists of clothes and their prices
 clothes= {'T-shirts' : '2500 Rwf -5000 Rwf',
         'Skirts' : '3000 Rwf - 6000 Rwf',
         'Trousers'  : '8000 Rwf - 12000 Rwf',
