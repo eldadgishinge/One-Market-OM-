@@ -89,7 +89,7 @@ Art_object= {'artistique painting': '8000 Rwf -15000 Rwf',
 for keys, values in sorted(Art objectitems()):
     print("{}: {}".format(keys, values))
 
-# The list of shoes by category
+# The list of shoes by category.... to be continued
 shoes= {' Sports shoes' : '35000 Rwf - 50000 Rwf', 
         'Men’s Dress shoes' : '30000 Rwf - 50000 Rwf', 
         'Women’s Dress shoes' : '22000 Rwf - 45000 Rwf',
