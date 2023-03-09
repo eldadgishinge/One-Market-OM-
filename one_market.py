@@ -23,3 +23,5 @@ vegetables = {'Pumpkin': '300 Rwf - 400 Rwf',
          'Cucumber': '200 Rwf - 300 Rwf',
          'Onions': '100 Rwf -200 Rwf'
         }
+for keys, values in sorted(vegetables.items()):
+    print("{}: {}".format(keys, values))
