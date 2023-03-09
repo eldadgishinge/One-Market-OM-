@@ -88,6 +88,15 @@ Art_object= {'artistique painting': '8000 Rwf -15000 Rwf',
 
 for keys, values in sorted(Art objectitems()):
     print("{}: {}".format(keys, values))  
-=======
->>>>>>> f7cf08bd38ca3c4409837b26b87ba8d5d5b7292a
->>>>>>> 99243da78b4c179beb2813ace5e6a0040e783b2f
+
+shoes= {' Sports shoes' : '35000 Rwf - 50000 Rwf', 
+        'Men’s Dress shoes' : '30000 Rwf - 50000 Rwf', 
+        'Women’s Dress shoes' : '22000 Rwf - 45000 Rwf',
+        'Slippers' : '8000 Rwf - 25000 Rwf',
+        'Sneakers' : '20000 Rwf - 40000 Rwf',
+        'Ballerina' : '8000 Rwf - 15000 Rwf',
+        'Sandals' : '12000 Rwf - 15000 Rwf',
+        'Loafers' : '15000 Rwf - 20000 Rwf',
+        'Boots' : '30000 Rwf - 45000 Rwf'
+}
+
