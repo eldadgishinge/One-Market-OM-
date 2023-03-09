@@ -91,3 +91,20 @@ for keys, values in sorted(Art objectitems()):
 =======
 >>>>>>> f7cf08bd38ca3c4409837b26b87ba8d5d5b7292a
 >>>>>>> 99243da78b4c179beb2813ace5e6a0040e783b2f
+
+
+#The lists of cars and their prices
+Cars = {'hyundai tucson 2022' : '$25,350 - negotiable',
+        'RAV4 2016 Toyota ' : '$17,400 to $27,000',
+        'Toyota Land Cruiser Prado'  : '$117,500 - negtiable',
+        '2021 Mercedes-Benz GLB 250 SUV ' : '$38,050- negotiable',
+        '4x4 jeep truck' : '$38,305- negotiable',
+        'McLaren 720S': '$305,000- negotiable',
+        'BMW M3/M4':'$70,895 - $72,795',
+        'Mercedes Benz Maybach Eqs Suv' : '$18,924 - negotiable'
+
+}
+
+
+for keys, values in sorted(cars.items()):
+    print("{}: {}".format(keys, values))
