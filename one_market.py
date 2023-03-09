@@ -29,8 +29,6 @@ phones= {
          'iphone 13 pro (128GB 6GB RAM)' : '972107 Rwf',
          'iphone 13 (128GB 6GB RAM)' : '799918 Rwf',
          'iphone 13 mini (128GB 4GB RAM)' : '730170 Rwf',
-
-
          'Samsung S23 Ultra (256GB 8GB RAM)' : '1.1M Rwf',
          'Samsung Galaxy S23 (128GB 8GB RAM)' : '811906 Rwf',
          'Samsung A53 5GB (128GB 4GB RAM)' : '489323 Rwf',
@@ -117,7 +115,7 @@ for keys, values in sorted(shoes.items()):
 
 print("----------------CARS----------------")
 #The lists of cars and their prices
-cars = {'hyundai tucson 2022' : '$25,350 - negotiable',
+Cars = {'hyundai tucson 2022' : '$25,350 - negotiable',
         'RAV4 2016 Toyota ' : '$17,400 to $27,000',
         'Toyota Land Cruiser Prado'  : '$117,500 - negtiable',
         '2021 Mercedes-Benz GLB 250 SUV ' : '$38,050- negotiable',
@@ -129,5 +127,5 @@ cars = {'hyundai tucson 2022' : '$25,350 - negotiable',
 }
 
 
-for keys, values in sorted(cars.items()):
+for keys, values in sorted(Cars.items()):
     print("{}: {}".format(keys, values))
