@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 print("----------------FRUITS----------------")
-
+print("                                           ")
 #This is alist of fruits and thier prices
 fruit= {'orange' : '100 Rwf -200 Rwf',
         'Banana' : '100 Rwf - 150 Rwf',
@@ -17,9 +17,9 @@ fruit= {'orange' : '100 Rwf -200 Rwf',
 
 for keys, values in sorted(fruit.items()):
     print("{}: {}".format(keys, values))
-
+print("                                           ")
 print("----------------PHONES----------------")
-
+print("                                           ")
 #This is a list of phones from different companies and their prices
 phones= {
          'iphone 14 pro max (128GB 6GB RAM)' : '1M Rwf',
@@ -39,8 +39,9 @@ phones= {
 
 for keys, values in sorted (phones.items()):
     print("{}: {}".format(keys, values))
-
+print("                                           ")
 print("----------------PHONES----------------")
+print("                                           ")
 #Group of vegetables
 vegetables = {'Pumpkin': '300 Rwf - 400 Rwf',
          'Tomato': '150 Rwf - 180 Rwf',
@@ -54,8 +55,10 @@ vegetables = {'Pumpkin': '300 Rwf - 400 Rwf',
 for keys, values in sorted(vegetables.items()):
     print("{}: {}".format(keys, values))
 
+print("                                           ")
 
 print("----------------DRINKS----------------")
+print("                                           ")
 #list of drinks and their prices
 drinks= {'Inyange mango juice' : '800 Rwf -900 Rwf',
         'Inyange apple juice' : '800 Rwf - 900 Rwf',
@@ -69,8 +72,9 @@ drinks= {'Inyange mango juice' : '800 Rwf -900 Rwf',
 for keys, values in sorted(drinks.items()):
     print("{}: {}".format(keys, values))
 
+print("                                           ")
 print("----------------CLOTHES----------------")
-
+print("                                           ")
 #lists of clothes and their prices
 clothes= {'T-shirts' : '2500 Rwf -5000 Rwf',
         'Skirts' : '3000 Rwf - 6000 Rwf',
@@ -84,7 +88,9 @@ clothes= {'T-shirts' : '2500 Rwf -5000 Rwf',
 for keys, values in sorted(clothes.items()):
     print("{}: {}".format(keys, values))
 
+print("                                           ")
 print("----------------ART OBJECTS----------------")
+print("                                           ")
 Art_object= {'artistique painting': '8000 Rwf -15000 Rwf',
         'pearl necklace': '5000 Rwf - 1000 Rwf',
         'Imigongo'  : '20000 Rwf - 35000 Rwf',
@@ -97,7 +103,9 @@ Art_object= {'artistique painting': '8000 Rwf -15000 Rwf',
 for keys, values in sorted(Art_object.items()):
     print("{}: {}".format(keys, values))
 
+print("                                           ")
 print("----------------SHOES----------------")
+print("                                           ")
 # The list of shoes by category.... to be continued
 shoes= {'Sports shoes' : '35000 Rwf - 50000 Rwf',
         'Men’s Dress shoes' : '30000 Rwf - 50000 Rwf',
@@ -112,8 +120,9 @@ shoes= {'Sports shoes' : '35000 Rwf - 50000 Rwf',
 
 for keys, values in sorted(shoes.items()):
     print("{}: {}".format(keys, values))
-
+print("                                           ")
 print("----------------CARS----------------")
+print("                                           ")
 #The lists of cars and their prices
 Cars = {'hyundai tucson 2022' : '$25,350 - negotiable',
         'RAV4 2016 Toyota ' : '$17,400 to $27,000',
