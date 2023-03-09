@@ -12,3 +12,5 @@ fruit= {'orange' : '100 Rwf -200 Rwf',
 
 for keys, values in sorted(fruit.items()):
     print("{}: {}".format(keys, values))
+
+    
