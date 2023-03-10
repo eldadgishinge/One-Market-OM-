@@ -98,7 +98,9 @@ Art_object= {'artistique painting': '8000 Rwf -15000 Rwf',
         'colorful basket wall decor' : '2500 Rwf - 40000 Rwf',
         'Rwanda Beads ': '7000 Rwf - 1000 Rwf',
         'small wooden sculpture in the shape of a tamtam and gorilla for key rings ' : '500 Rwf - 1000 Rwf',
-    'Rwanda flag bracelt’: ‘3000 Rwf -5000 Rwf’}
+        'Rwanda flag bracelt’: ‘3000 Rwf -5000 Rwf’
+
+        }
 
 for keys, values in sorted(Art_object.items()):
     print("{}: {}".format(keys, values))
