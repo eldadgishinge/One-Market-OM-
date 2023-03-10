@@ -40,7 +40,7 @@ phones= {
 for keys, values in sorted (phones.items()):
     print("{}: {}".format(keys, values))
 print("                                           ")
-print("----------------PHONES----------------")
+print("----------------VEGETABLES----------------")
 print("                                           ")
 #Group of vegetables
 vegetables = {'Pumpkin': '300 Rwf - 400 Rwf',
