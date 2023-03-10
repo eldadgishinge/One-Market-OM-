@@ -106,7 +106,7 @@ for keys, values in sorted(Art_object.items()):
 print("                                           ")
 print("----------------SHOES----------------")
 print("                                           ")
-# The list of shoes by category.... to be continued
+# The list of shoes by category.....to be continued
 shoes= {'Sports shoes' : '35000 Rwf - 50000 Rwf',
         'Men’s Dress shoes' : '30000 Rwf - 50000 Rwf',
         'Women’s Dress shoes' : '22000 Rwf - 45000 Rwf',
