@@ -40,7 +40,7 @@ phones= {
 for keys, values in sorted (phones.items()):
     print("{}: {}".format(keys, values))
 print("                                           ")
-print("----------------PHONES----------------")
+print("----------------VEGETABLES----------------")
 print("                                           ")
 #Group of vegetables
 vegetables = {'Pumpkin': '300 Rwf - 400 Rwf',
@@ -96,9 +96,11 @@ Art_object= {'artistique painting': '8000 Rwf -15000 Rwf',
         'Imigongo'  : '20000 Rwf - 35000 Rwf',
         'Floret hand woven Rwandan basket' : '25000 Rwf - 30000 Rwf',
         'colorful basket wall decor' : '2500 Rwf - 40000 Rwf',
-        'Rwanda Beads': '7000 Rwf - 1000 Rwf',
-        'Rwanda flag bracelt': '3000 Rwf -5000 Rwf'}
+        'Rwanda Beads ': '7000 Rwf - 1000 Rwf',
+        'small wooden sculpture in the shape of a tamtam and gorilla for key rings ' : '500 Rwf - 1000 Rwf',
+        'Rwanda flag bracelt’: ‘3000 Rwf -5000 Rwf’
 
+        }
 
 for keys, values in sorted(Art_object.items()):
     print("{}: {}".format(keys, values))
@@ -106,7 +108,7 @@ for keys, values in sorted(Art_object.items()):
 print("                                           ")
 print("----------------SHOES----------------")
 print("                                           ")
-# The list of shoes by category.... to be continued
+# The list of shoes by category.....to be continued
 shoes= {'Sports shoes' : '35000 Rwf - 50000 Rwf',
         'Men’s Dress shoes' : '30000 Rwf - 50000 Rwf',
         'Women’s Dress shoes' : '22000 Rwf - 45000 Rwf',
