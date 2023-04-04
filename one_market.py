@@ -153,15 +153,17 @@ for i in range(1000):
         print("                                           ")
         print("----------------CARS----------------")
         print("                                           ")
-        #The lists of cars and their prices
-        Cars = {'hyundai tucson 2022' : '$25,350 - negotiable',
-                'RAV4 2016 Toyota ' : '$17,400 to $27,000',
-                'Toyota Land Cruiser Prado'  : '$117,500 - negtiable',
-                '2021 Mercedes-Benz GLB 250 SUV ' : '$38,050- negotiable',
-                '4x4 jeep truck' : '$38,305- negotiable',
-                'McLaren 720S': '$305,000- negotiable',
-                'BMW M3/M4':'$70,895 - $72,795',
-                'Mercedes Benz Maybach Eqs Suv' : '$18,924 - negotiable'
+#The lists of rental cars and their rent  prices monthly to tour around Rwanda
+Cars = {'hyundai tucson 2022' : '$2535 - negotiable',
+        'RAV4 2016 Toyota ' : '$1740 to $2000',
+        'Toyota Land Cruiser Prado'  : '$4700- negotiable',
+        '2021 Mercedes-Benz GLB 250 SUV ' : '$5805- negotiable',
+        '4x4 jeep truck' : '$5835- negotiable',
+        'McLaren 720S': '$30500- negotiable',
+        'BMW M3/M4':'$9095 - $10,000',
+        'Mercedes Benz Maybach Eqs Suv' : '$8,924 - negotiable',
+        'Toyota Bus ' : '$5,924 - negotiable'
+
     
         }
 <<<<<<< HEAD
